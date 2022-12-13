@@ -1,0 +1,81 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/y8FeZMv37WU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 2,
+      "titulo": "Desmistificando mobile - Linguagens e Frameworks",
+      "descricao": "1,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/fmu1LQvZhms",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 3,
+      "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
+      "descricao": "30 mil visualizações",
+      "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 4,
+      "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
+      "descricao": "2,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 5,
+      "titulo": "Reencontrando a paixão por programar: Beatriz Ramerindo",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/CnB3eLTrkn4",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 6,
+      "titulo": "Híbridos: Flutter e React Native | Desmistificando..",
+      "descricao": "1,6 mil visualizações",
+      "url": "https://www.youtube.com/embed/vf9P_PycgRw",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 7,
+      "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
+      "descricao": "3,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/Nts3P35mHzE",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 8,
+      "titulo": "baNaNa | Memes do JavaScript #2",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/z43rcfjXOxU",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 9
+    },
+    {
+      "titulo": "HOJE DIOGO DEFANTE DESCOBRIU ALGO MUITO RUIM NO CATAR... CAZÉ TV | Cortes do Casimito",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/25hlUHsaqoM",
+      "imagem": "https://i.ytimg.com/an_webp/25hlUHsaqoM/mqdefault_6s.webp?du=3000&sqp=CK_d4pwG&rs=AOn4CLCqXMurcHV4K9OZCPhTLXSuZERoTw",
+      "id": 10
+    },
+    {
+      "titulo": "NERD NO KARAOKE 🎤🎶",
+      "descricao": "9 mil visualizações",
+      "url": "https://youtube.com/embed/xyGOLaaOBq4",
+      "imagem": "https://i.ytimg.com/vi/xyGOLaaOBq4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-6q8weSXsUAMdR3RVK5ahiEeGvw",
+      "id": 11
+    }
+  ]
+}
